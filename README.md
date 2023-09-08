@@ -1,5 +1,5 @@
 
-<a href="https://ibb.co/jvpgC1N"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="White-Minimalist-Simple-Aesthetic-Name-Twitter-Header" border="0" width="100%"></a>
+<a href="https://ibb.co/jvpgC1N"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="Profile LOGO" border="0" align="center"></a>
 
 <!--
 **Gyash2112/Gyash2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
