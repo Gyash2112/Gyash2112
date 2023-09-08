@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="Profile LOGO" border="0"/>
+<p align="center"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="Profile LOGO" border="0" width="100%" />
 
 <br/>
 <img src="https://skillicons.dev/icons?i=js,html,css" alt="Skills"/>
