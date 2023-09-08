@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="Profile LOGO" border="0" align="center">
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyash2112)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Gyash2112/Gyash2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
