@@ -1,4 +1,3 @@
-
 <a href="https://ibb.co/jvpgC1N"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="Profile LOGO" border="0" align="center"></a>
 
 <!--
