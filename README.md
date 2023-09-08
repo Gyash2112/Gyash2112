@@ -1,5 +1,4 @@
-### Hi there 👋 
-### My Name YASH 
+
 <a href="https://ibb.co/jvpgC1N"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="White-Minimalist-Simple-Aesthetic-Name-Twitter-Header" border="0"></a>
 
 <!--
