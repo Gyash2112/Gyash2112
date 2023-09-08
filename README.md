@@ -1,4 +1,8 @@
 <p align="center"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="Profile LOGO" border="0" width="100%" />
+<br/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <br/>
 <img src="https://skillicons.dev/icons?i=js,html,css" alt="Skills"/>
