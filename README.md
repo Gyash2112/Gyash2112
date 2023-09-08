@@ -1,7 +1,7 @@
-<p align="center"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="Profile LOGO" border="0" /></p>
+<p align="center"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="Profile LOGO" border="0" />
 
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)</p>
 <!--
 **Gyash2112/Gyash2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
