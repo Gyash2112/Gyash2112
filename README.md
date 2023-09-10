@@ -4,9 +4,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/WhatsApp-darkgreen?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 <br/>
+
 <img src="https://skillicons.dev/icons?i=js,html,css" alt="Skills"/>
 <!--
 **Gyash2112/Gyash2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
