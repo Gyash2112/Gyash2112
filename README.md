@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-darkgreen?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Gyash2112&style=flat-square&color=blue" alt=""/>
 </div>
 
 <br/>
