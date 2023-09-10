@@ -10,6 +10,10 @@
 
 <br/>
 
+---
+
+### :woman_technologist: About Me :
+
 <img src="https://skillicons.dev/icons?i=js,html,css" alt="Skills"/>
 <!--
 **Gyash2112/Gyash2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
