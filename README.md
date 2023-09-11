@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="Profile LOGO" border="0" width="100%" />
 <br/>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yash-gupta-014510206/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://leetcode.com/theyash_316/">
-    <img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
 <br/>
