@@ -1,13 +1,16 @@
 <p align="center"><img src="https://i.ibb.co/HDJnckS/White-Minimalist-Simple-Aesthetic-Name-Twitter-Header.png" alt="Profile LOGO" border="0" width="100%" />
 <br/>
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/WhatsApp-darkgreen?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Gyash2112&style=flat-square&color=blue" alt=""/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yash-gupta-014510206/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="wa.me/+919936644145">
+    <img src="https://img.shields.io/badge/WhatsApp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://leetcode.com/theyash_316/">
+    <img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
 </div>
-
 <br/>
 
 ---
@@ -15,13 +18,13 @@
 ### :woman_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :man_student: Right now I'm in my Final Year and Currently Persuading My B.Tech from C.S.E.
+- 
+- :seedling: Building Dynamic Web Applications
 
-- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on GeeksforGeeks, LeetCode, and Coding Ninjas.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-YASH-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yash-gupta-014510206/)
 
 ---
 
