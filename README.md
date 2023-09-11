@@ -19,7 +19,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :man_student: Right now I'm in my Final Year and Currently Persuading My B.Tech from C.S.E.
-- 
+
 - :seedling: Building Dynamic Web Applications
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, LeetCode, and Coding Ninjas.
