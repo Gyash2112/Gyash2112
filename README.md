@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/yash-gupta-014510206/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="wa.me/+919936644145">
+  <a href="https://wa.me/+919936644145">
     <img src="https://img.shields.io/badge/WhatsApp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://leetcode.com/theyash_316/">
